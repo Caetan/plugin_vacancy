@@ -2,6 +2,7 @@
 Desarrollo de un módulo de ofertas de empleo para la plataforma Elgg
 
 [1] INSTALACIÓN
+
 Para llevar a cabo la instalación del plugin Vacancy es necesario copiar la carpeta que contiene el código
 en el directorio donde se encuentran el resto de los plugins en la instalación de Elgg.
 Una vez realizada esta tarea el usuario administrador deberá acceder al apartado de Administración de la
